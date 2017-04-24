@@ -15,6 +15,6 @@ group :test do
 end
 
 gem 'spree', github: 'spree/spree', branch: '2-0-stable'
-gem 'globalize3', '~> 0.3.0'
+gem 'globalize3', github: 'Em-AK/globalize', branch: 'globalize3'
 
 gemspec
